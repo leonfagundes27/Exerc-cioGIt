@@ -25,3 +25,9 @@ D. Crie as branchs principais do GitFlow:
     ```
 E. Faça o push das  branchs para o repositório remoto:
 
+## 2. Configuração de uma Pipeline no GitHub Actions
+A. Acesse a aba "Actions" no GitHub.
+
+B. Clique em "New workflow" e selecione "Set up a workflow yourself".
+
+C. Configure o arquivo YML de CI conforme as instruções do exercício.
