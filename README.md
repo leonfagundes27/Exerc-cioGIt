@@ -5,10 +5,23 @@ Este repositório foi criado como parte de um exercício da aula de Integração
 ## 1. Configuração Inicial do Repositório
 
 ### A. Criação do Repositório
-1. Acesse o GitHub e crie um novo repositório.
+A. Acesse o GitHub e crie um novo repositório ou inicialize um repositório local.
 
-2. Clonar o repositório:
-   ```bash
+B. Clonar o repositório:
+    ```bash
    git clone https://github.com/usuario/nome-do-repositorio.git
+    ```
 
+C. Inicialize o repositório Git localmente:
+    ```bash
+    git init
+    ```
+D. Crie as branchs principais do GitFlow:
+    - Master/Main
+    - Development
+
+    ```bash
+    git checkout -b development
+    ```
+E. Faça o push das  branchs para o repositório remoto:
 
